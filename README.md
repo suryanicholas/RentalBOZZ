@@ -1,10 +1,7 @@
 # RentalBOZZ - Aplikasi Rental Mobil
 
 ## Tentang Proyek
-Proyek ini dibuat untuk memenuhi Tugas Akhir mata kuliah Pemrograman Berorientasi Objek dalam Jurusan Teknik Informatika yang merupakan
-Program Studi Fakultas Ilmu Komputer Universitas Katolik Santo Thomas Sumatera Utara. Proyek ini dibuat dalam berdasarkan Kelompok,
-kami mengambil Topik Sistem Rental atau Penyewaan dan kami tentukanlah Judul Proyek yaitu __Rental Mobil__ yang pada implementasi Program
-kami beri nama proyek __RentalBOZZ__.
+Proyek ini dibuat untuk memenuhi Tugas Akhir pada mata kuliah Pemrograman Berorientasi Objek  Jurusan Teknik Informatika Program Studi Fakultas Ilmu Komputer Universitas Katolik Santo Thomas Sumatera Utara. Proyek ini dibuat dengan Tim yang mengambil Topik Sistem Rental atau Penyewaan dan Sistem yang dikembangkan adalah __Rental Mobil__ yang pada implementasi Program kami beri nama proyek __RentalBOZZ__.
 
 ### Alat Pengembangan
 - NetBeans IDE 20
