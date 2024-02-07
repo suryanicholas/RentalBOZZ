@@ -16,4 +16,4 @@ Proyek ini dibuat untuk memenuhi Tugas Akhir pada mata kuliah Pemrograman Berori
 4. [Surya Nicholas](https://www.instagram.com/suryanicholas.t) sebagai Pemrogram
 
 ### Dosen Pengampu
-[Doni El Rezen Purba, S.Kom., M.Kom.]() merupakan Dosen yang bertanggung jawab atas Mata Kuliah Pemrograman Berorientasi Objek pada saat Proyek ini dibuat.
+[Doni El Rezen Purba, S.Kom., M.Kom.](https://www.instagram.com/der.purba) merupakan Dosen yang bertanggung jawab atas Mata Kuliah Pemrograman Berorientasi Objek pada saat Proyek ini dibuat.
