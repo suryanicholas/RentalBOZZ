@@ -10,8 +10,8 @@ Proyek ini dibuat untuk memenuhi Tugas Akhir pada mata kuliah Pemrograman Berori
 - XAMPP
 
 ### Anggota Tim
-1. [Elovani Tambunan]() sebagai Dokumentasi
-2. [Fransa Dirgawan]() sebagai Perancang Sistem
+1. [Elovani Tambunan](https://www.instagram.com/vanypgrzy) sebagai Dokumentasi
+2. [Fransa Dirgawan](https://www.instagram.com/franszebua_) sebagai Perancang Sistem
 3. [Natanael Silitonga](https://www.instagram.com/nathan_sil__) sebagai Perancang Diagram
 4. [Surya Nicholas](https://www.instagram.com/suryanicholas.t) sebagai Pemrogram
 
